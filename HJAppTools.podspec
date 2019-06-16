@@ -25,7 +25,7 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
-                   初次提交
+                   初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交
                    DESC
 
   spec.homepage     = "https://github.com/Jian-H/HJAppTools.git"
@@ -91,10 +91,10 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "Classes", "Classes/**/*.{h,m}"
-  spec.exclude_files = "Classes/Exclude"
+  spec.source_files  = "HJAppTools", "HJAppTools/**/*.{h,m}"
+  spec.exclude_files = "HJAppTools/Exclude"
 
-  # spec.public_header_files = "Classes/**/*.h"
+  # spec.public_header_files = "HJAppTools/**/*.h"
 
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
