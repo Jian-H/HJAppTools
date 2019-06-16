@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "HJAppTools"
   spec.version      = "0.0.1"
-  spec.summary      = "iOS开发常用的工具类"
+  spec.summary      = "HJAppTools,iOS开发常用的工具类"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,7 +25,7 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
-                   初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交
+                   HJAppTools,初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交初次提交
                    DESC
 
   spec.homepage     = "https://github.com/Jian-H/HJAppTools.git"
@@ -91,7 +91,7 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "HJAppTools", "HJAppTools/**/*.{h,m}"
+  spec.source_files  = "HJAppTools/**/*.{h,m}"
   #spec.exclude_files = "HJAppTools/Exclude"
 
   # spec.public_header_files = "HJAppTools/**/*.h"
