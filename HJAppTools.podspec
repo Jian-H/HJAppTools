@@ -92,7 +92,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.source_files  = "HJAppTools", "HJAppTools/**/*.{h,m}"
-  spec.exclude_files = "HJAppTools/Exclude"
+  #spec.exclude_files = "HJAppTools/Exclude"
 
   # spec.public_header_files = "HJAppTools/**/*.h"
 
